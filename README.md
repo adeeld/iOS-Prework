@@ -2,7 +2,7 @@
 
 Submitted by: **Mohammad Durrani**
 
-**IOS Prework** is an app that... [TODO] 
+**IOS Prework** is an app that... [changes the color of the background everytime the label 'rainbow' is clicked] 
 
 Time spent: **1** hours spent in total
 
